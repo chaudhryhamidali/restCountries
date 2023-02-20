@@ -1,0 +1,24 @@
+.yellow { color: yellow; }
+.orange { color: orange; }
+.green { color: green; }
+.blue { color: blue; }
+.purple { color: purple; }
+
+
+h1{
+    text-align: center;
+}
+ul{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+
+}
+li{
+    list-style: none;
+    background-color: lightgrey;
+    width: 300px;
+    border: 15px solid green;
+    padding: 30px;
+    margin: 20px;
+}
